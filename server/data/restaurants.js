@@ -3,63 +3,63 @@
 // An array of restaurant data
 let restaurantData = [
     {
-        "id": 0,
+        "id": 1,
         "name": "Scoma's Restaurant",
         "phone": "(415) 771-4383",
         "address": "1965 Al Scoma Way San Francisco, United States",
         "photo": "/images/scoma.png"
     },
     {
-        "id": 1,
+        "id": 2,
         "name": "Abacá",
         "phone": "(415) 486-0788",
         "address": "2700 Jones St San Francisco, United States",
         "photo": "/images/abacá.png"
     },
     {
-        "id": 2,
+        "id": 3,
         "name": "Dalida",
         "phone": "(415)  237-1999",
         "address": "1101 Montgomery St San Francisco, United States",
         "photo": "/images/dalida.png"
     },
     {
-        "id": 3,
+        "id": 4,
         "name": "Golden Boy Pizza",
         "phone": "(415) 982-1111",
         "address": "542 Green St (at Grant) San Francisco, United States",
         "photo": "/images/golden_boy.png"
     },
     {
-        "id": 4,
+        "id": 5,
         "name": "Maison Nico",
         "phone": "(415) 359-1000",
         "address": "710 Montgomery St (Washinton St) San Francisco, United States",
         "photo": "/images/maison_nico.png"
     },
     {
-        "id": 5,
+        "id": 6,
         "name": "Hog Island Oyster Co",
         "phone": "(415) 391-7117",
         "address": "Ferry Building, #11 San Francisco, United States",
         "photo": "/images/hog_island.png"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "City View Resturant",
         "phone": "(415) 398-2838",
         "address": "33 Walter U Lum P1 San Francisco, United States",
         "photo": "/images/city_view.png"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Sam Wo Resturant",
         "phone": "(415) 989-8898",
         "address": "713 Clay St San Francisco, United States",
         "photo": "/images/samwo.png"
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Mister Jiu's",
         "phone": "(415) 857-9688",
         "address": "28 Waverly P1 San Francisco, United States",
